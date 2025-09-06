@@ -1,7 +1,9 @@
 Metadata-Version: 2.4
 Name: printer
-Version: 1.0.2
+Version: 1.0.3
 Summary: this Module print same text
-Home-page: https://hoseiniweb.ir
+Home-page: https://github.com/sajadirc/print-package.git
+Requires: request
 Dynamic: home-page
+Dynamic: requires
 Dynamic: summary
