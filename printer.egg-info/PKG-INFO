@@ -1,9 +1,9 @@
 Metadata-Version: 2.4
 Name: printer
-Version: 1.0.3
+Version: 1.0.4
 Summary: this Module print same text
 Home-page: https://github.com/sajadirc/print-package.git
-Requires: request
+Requires: requests
 Dynamic: home-page
 Dynamic: requires
 Dynamic: summary
