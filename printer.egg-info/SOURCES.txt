@@ -4,5 +4,6 @@ printer/handler.py
 printer.egg-info/PKG-INFO
 printer.egg-info/SOURCES.txt
 printer.egg-info/dependency_links.txt
+printer.egg-info/requires.txt
 printer.egg-info/top_level.txt
 printer/other/main.py
