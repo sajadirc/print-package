@@ -3,7 +3,9 @@ Name: printer
 Version: 1.0.5
 Summary: this Module print same text
 Home-page: https://github.com/sajadirc/print-package.git
+Requires: requests
 Requires-Dist: requests
 Dynamic: home-page
+Dynamic: requires
 Dynamic: requires-dist
 Dynamic: summary

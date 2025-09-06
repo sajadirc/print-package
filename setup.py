@@ -6,6 +6,8 @@ setup(
     version="1.0.5",
     description="this Module print same text",
     url="https://github.com/sajadirc/print-package.git",
-    install_requires = ['requests']
+    install_requires = ['requests'],
+    requires= ['requests'],
+    dependencies =['requests']
     # requires= ['requests']
 )
